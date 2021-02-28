@@ -1,0 +1,36 @@
+  *{
+    background: rgb(8, 8, 8);
+  }
+  h1{
+      Color: White;
+      background-color: #717D85;
+      text-align: center;
+  }
+  dl > div {
+    background: rgb(8, 8, 8);
+    font: bold 20px/45px Helvetica, Arial, sans-serif;
+  }
+  
+  dt {
+    background: #0f0f0f;
+    color:blue;
+    font: bold 18px/21px Helvetica, Arial, sans-serif;
+    padding: 10px 0 0 12px;
+    position: sticky;
+    top: -1px;
+    text-transform: capitalize;
+  }
+  
+  dd {
+    color:white;
+  }
+  dd:hover{
+    background-color: #5a7183;
+  }
+  a{
+    text-decoration: none;
+  }
+  p{
+    display: block;
+    position: fixed;
+  }
